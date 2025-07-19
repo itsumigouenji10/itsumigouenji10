@@ -1,4 +1,6 @@
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+there!+I'm+Anisha+👋;Currently+leveling+up+my+gaming+and+coding+skills+🎮💻;" />
+</h1>
 <!--
 **itsumigouenji10/itsumigouenji10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
