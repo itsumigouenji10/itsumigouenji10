@@ -4,7 +4,7 @@
 
 <img src="https://github.com/itsumigouenji10/itsumigouenji10/blob/main/banner.png" alt="Customized banner from my portfolio website and LinkedIn profile banner">
 
-## About me!
+## 👩‍🦰 About me!
 ```yaml
 name: Anisha Manohar Pandya
 located_in: Calgary, Alberta, Canada
@@ -21,18 +21,40 @@ currently_learning:
 - "Comptia Security+"
 ```
 
+## 🧰 Languages and Tools I Use
 
-<!--
-**itsumigouenji10/itsumigouenji10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />
 
-Here are some ideas to get you started:
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=flat&logo=proxmox&logoColor=white" alt="pfSense" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Security Tools -->
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/Nmap-5E5C5C?style=flat" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF3300?style=flat" alt="Burp Suite" />
+
+  <!-- Other -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+## ✅ Visitor Count
+<div align="center"> 
+    <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=itsumigouenji10&label=Profile+Views&color=F75C7E&style=flat" alt="Visitor count" />
+    </p>
+</div>
+
+## 📕 Latest Blog Posts
+- [Advanced Virtual Cyber Defense Lab - Part 1](https://anisha-manohar-pandya.com/blog/advanced-virtual-cyber-defense-lab-part-1)
+
