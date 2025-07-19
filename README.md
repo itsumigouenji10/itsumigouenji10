@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Anisha+👋;Currently+leveling+up+my+gaming+and+coding+skills+🎮💻;" alt="Typing SVG" />
-</p>
-
 
 <!--
 **itsumigouenji10/itsumigouenji10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
