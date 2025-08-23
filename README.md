@@ -56,5 +56,6 @@ currently_learning:
 </div>
 
 ## 📕 Latest Blog Posts
+- [Python-based HoneyGuard](https://anisha-manohar-pandya.com/blog/python-honeyguard)
 - [Advanced Virtual Cyber Defense Lab - Part 1](https://anisha-manohar-pandya.com/blog/advanced-virtual-cyber-defense-lab-part-1)
 
