@@ -9,7 +9,7 @@
 name: Anisha Manohar Pandya
 located_in: Calgary, Alberta, Canada
 originally_from: Mumbai, Maharashtra, Mumbai
-current_focus: "Cybersecurity & IT Support"
+current_focus: "Software Engineering & Secure coding practices"
 
 education:
 - "Master of Science in Computer Science (University of Calgary)"
